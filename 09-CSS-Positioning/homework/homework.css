@@ -55,6 +55,8 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     flex-direction: row-reverse;
 }
 
+/* Ejercicio 7*/
+
 #ejercicioSiete {
     display: flex;
     flex-direction: column-reverse;
